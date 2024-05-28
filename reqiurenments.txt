@@ -1,0 +1,12 @@
+h5py
+numpy
+keras
+pandas
+pillow
+imutils
+pyttsx3
+openpyxl
+tensorflow
+scikit-learn
+opencv-python
+opencv-contrib-python
